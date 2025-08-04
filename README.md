@@ -7,10 +7,19 @@ It can perform:
 - Multiplication (*)
 - Division (/)
 
+# Amazing Number Guessing Game Using Python :
+
+This is  a simple number guessing game.
+You have to guess a number.
+If :
+- number guessed : print congratulations
+- number low than random number : print too low
+- number high than random number : print too high
+
 # How to Run ?
-1. Open `calculator.py` in any Python environment.
+1. Open .py in any Python environment.
 2. Run the file.
-3. Enter two numbers and choose an operation.
+3. Interact with it accordingly. 
 
 # Author :
 Shruti Dharodiya
